@@ -1,0 +1,30 @@
+_repo: A-Handbook-to-Agra-and-the-Taj-Sikandra-Fatehpur-Sikri-and-the-Neighbourhood_12006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Havell, E. B. (Ernest Binfield)
+    alias: Havell, Ernest Binfield
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '4171'
+    url: http://www.gutenberg.org/2009/agents/4171
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tombs -- India -- Agra Region'
+- !lcsh 'Agra (India) -- Guidebooks'
+- !lcsh 'Taj Mahal (Agra, India)'
+- !lcsh 'Historic buildings -- India -- Agra Region'
+- !lcc 'DS'
+- !lcsh 'Art, Mogul'
+- !lcsh 'Agra Region (India) -- History'
+- GITenberg
+title: A Handbook to Agra and the Taj, Sikandra, Fatehpur-Sikri and the Neighbourhood
+url: http://www.gutenberg.org/ebooks/12006
